@@ -26,9 +26,9 @@ Clock: **100 MHz**
 
 ------------------------------------------------------------
 
-# 🧱 Block Diagram (Insert Image Here)
+# 🧱 Block Diagram 
 
-TODO: Insert your schematic/block diagram  
+TODO: Block diagram  
 Example:
 <img width="1589" height="509" alt="Screenshot 2025-11-18 085703" src="https://github.com/user-attachments/assets/ac582d38-11e0-4d7d-a0f9-8a3891a020f9" />
 )
