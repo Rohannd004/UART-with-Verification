@@ -30,7 +30,8 @@ Clock: **100 MHz**
 
 TODO: Insert your schematic/block diagram  
 Example:
-![Block Diagram](images/uart_block_diagram.png)
+![Block Diagram](<img width="1589" height="509" alt="Screenshot 2025-11-18 085703" src="https://github.com/user-attachments/assets/ac582d38-11e0-4d7d-a0f9-8a3891a020f9" />
+)
 
 ------------------------------------------------------------
 
