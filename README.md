@@ -102,7 +102,7 @@ Testbench sends:
 
 TODO: Insert your simulation waveform  
 Example:
-![Waveform](<img width="1334" height="490" alt="image" src="https://github.com/user-attachments/assets/c4e80c63-8dd5-4c32-bf1b-175e7cf46e95" />
+(<img width="1334" height="490" alt="image" src="https://github.com/user-attachments/assets/c4e80c63-8dd5-4c32-bf1b-175e7cf46e95" />
 )
 
 ------------------------------------------------------------
