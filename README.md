@@ -98,7 +98,7 @@ Testbench sends:
 
 ------------------------------------------------------------
 
-# 📈 Simulation Waveform (Insert Image Here)
+# 📈 Simulation Waveform 
 
 TODO:Waveform  
 Example:
